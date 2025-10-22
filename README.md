@@ -9,6 +9,8 @@ Tools:
 - Bridge: https://bridge-core.github.io/. Optional, but useful for making JSONs and importing them into Minecraft.
 - MCreator: https://mcreator.net/. Optional, but for making the RP and BPs.
 - Blockbench: https://www.blockbench.net/, for making the custom player animations.
+  - Add-ons for Blockbench, [CEM ](https://ewanhowell.com/plugins/cem-template-loader) by Ewan Howell.
+  - And the custom made player models in the files.
 
 
 Tutorials:
