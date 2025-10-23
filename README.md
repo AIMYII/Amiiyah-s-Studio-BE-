@@ -15,3 +15,10 @@ Tools:
 
 Tutorials:
 https://www.youtube.com/watch?v=8z13wTbNAJg&t=2457s
+
+
+
+**Disclaimer**
+
+This project is an independent fan-made add-on and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+Minecraft is a trademark of Mojang Studios and Microsoft.
